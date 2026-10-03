@@ -6,7 +6,7 @@ Right now I'm going deeper into backend engineering and building agentic AI apps
 
 ## What I work on
 
-- **Backend:** Services in Java (Spring Boot) and TypeScript/JavaScript (Express.js): REST APIs, webhooks, and integrations that stay running for years. Data lives in PostgreSQL, MySQL, MongoDB, and Redis, with Kafka and RabbitMQ for messaging.
+- **Backend:** Services in Java (Spring Boot) and TypeScript/JavaScript (Express.js): REST APIs, webhooks, and integrations with resilent practices. Data in PostgreSQL, MySQL, MongoDB, and Redis, with Kafka and RabbitMQ for messaging. 
 - **Infrastructure:** Kubernetes microservices across multiple environments, provisioned with Terraform and deployed end to end with Ansible.
 - **CI/CD:** GitHub Actions pipelines and AWS workflows that cover build, test, delivery, and deployment to each environment.
 - **AWS:** VPC, IAM, S3, RDS, SQS, Lambda, EKS, ECS, and CloudWatch, plus cost optimization. I've also touched Azure and on-premise setups.
