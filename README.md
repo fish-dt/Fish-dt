@@ -1,14 +1,14 @@
 # Hi, I'm Fisiha
 
-Full-stack developer working across backend, DevOps, and cloud-native systems on fintech platforms serving 160K+ users.
+I'm a full-stack developer working across backend, DevOps, and cloud-native systems. I've worked on fintech platforms serving 160K+ users.
 
-Currently focused on backend engineering and agentic AI on AWS, building with Amazon Bedrock.
+Right now I'm going deeper into backend engineering and building agentic AI apps on AWS with Amazon Bedrock and Python.
 
 ## What I work on
 
+- **Backend:** Services in Java (Spring Boot) and TypeScript/JavaScript (Express.js): REST APIs, webhooks, and integrations that stay running for years. Data lives in PostgreSQL, MySQL, MongoDB, and Redis, with Kafka and RabbitMQ for messaging.
 - **Infrastructure:** Kubernetes microservices across multiple environments, provisioned with Terraform and deployed end to end with Ansible.
-- **CI/CD:** multi-step GitHub Actions and AWS workflows covering build, test, delivery, and environment deployment.
-- **Backend:** Spring Boot and Express.js services, REST APIs, webhooks, and long-lived integrations.
-- **AWS:** VPC, IAM, S3, RDS, SQS, Lambda, EKS, ECS, CloudWatch, plus cost optimization. Some Azure and on-premise exposure.
-- **Reliability:** investigating production incidents with logs, metrics, and traces, and shipping incremental fixes.
-- **Frontend:** React, Next.js, Tailwind CSS.
+- **CI/CD:** GitHub Actions pipelines and AWS workflows that cover build, test, delivery, and deployment to each environment.
+- **AWS:** VPC, IAM, S3, RDS, SQS, Lambda, EKS, ECS, and CloudWatch, plus cost optimization. I've also touched Azure and on-premise setups.
+- **Reliability:** Investigating production incidents with logs, metrics, and traces (Prometheus, Grafana, OpenTelemetry), then shipping small fixes that make things more stable.
+- **Frontend:** React and Next.js with TypeScript and Tailwind CSS.
