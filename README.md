@@ -2,7 +2,7 @@
 
 Full-stack developer working across backend, DevOps, and cloud-native systems on fintech platforms serving 160K+ users.
 
-Right now I'm going deeper into backend engineering and building agent-based apps with Amazon Bedrock through the AWS Agentic AI Engineer Nanodegree.
+Currently focused on backend engineering and agentic AI on AWS, building with Amazon Bedrock.
 
 ## What I work on
 
@@ -12,7 +12,3 @@ Right now I'm going deeper into backend engineering and building agent-based app
 - **AWS:** VPC, IAM, S3, RDS, SQS, Lambda, EKS, ECS, CloudWatch, plus cost optimization. Some Azure and on-premise exposure.
 - **Reliability:** investigating production incidents with logs, metrics, and traces, and shipping incremental fixes.
 - **Frontend:** React, Next.js, Tailwind CSS.
-
-## Find my work
-
-Pinned repositories are above. More at [github.com/Fish-dt](https://github.com/fish-dt?tab=repositories).
